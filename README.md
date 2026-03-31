@@ -1,22 +1,22 @@
 # Saumya Singh
-###🎓 B.Tech Undergraduate | 💻 Software Developer | 🤖 AI Enthusiast
+### 🎓 B.Tech Undergraduate | 💻 Software Developer | 🤖 AI Enthusiast
 
 ---
 
-###🚀 About Me
+### 🚀 About Me
 
 I am a passionate and detail-oriented engineering undergraduate with a strong foundation in software development, system design, and problem-solving.
 I enjoy building scalable web applications and exploring AI-driven solutions that solve real-world problems. Currently, I am diving deeper into Generative AI and Deep Learning, aiming to combine intelligent systems with modern software engineering.
 
 ---
 
-###🎯 Career Objective
+### 🎯 Career Objective
 
 To leverage my skills in software engineering and artificial intelligence to build efficient, scalable, and impactful solutions while continuously learning and growing in a dynamic environment.
 
 ---
 
-###🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - 💻 Development
 Languages: Java, JavaScript
@@ -42,7 +42,7 @@ Problem Solving
 
 ---
 
-###🚀 Featured Project
+### 🚀 Featured Project
 
 🏥 MedManager – Healthcare Management System
 
@@ -59,14 +59,14 @@ Java, Spring Boot, React, MySQL
  
 ---
 
-###🌱 Currently Learning
+### 🌱 Currently Learning
 Generative AI
 Advanced Deep Learning
 System Design & Scalability
 
 ---
 
-###💡 Strengths
+### 💡 Strengths
 Clean and maintainable coding practices
 Strong analytical and problem-solving skills
 Fast learner and adaptable
@@ -74,7 +74,7 @@ Balance between theory and real-world implementation
 
 ----
 
-###📫 Connect With Me
+### 📫 Connect With Me
 🔗 LinkedIn:
 https://www.linkedin.com/in/saumya-singh-4525b7275
 📧 Email:
@@ -84,6 +84,6 @@ https://www.linkedin.com/in/saumya-singh-4525b7275
 
 ----
 
-###⚡ Fun Fact
+### ⚡ Fun Fact
 
 I enjoy turning complex problems into simple, efficient solutions 🚀
