@@ -1,43 +1,89 @@
 # Saumya Singh
-### Engineering Undergraduate
-
-I am a Btech undergraduate with skills in software development and designing systems. I specialize in building web applications and machine learning based systems. My goal is to create efficient, maintainable code that solves real-world problems.
+###🎓 B.Tech Undergraduate | 💻 Software Developer | 🤖 AI Enthusiast
 
 ---
 
-### 📊 Skillset:
-- **Primary skills:** web development,Designing and Analysis of Algorithms, Data Structures and Algorithms.
-- **Current Focus:** GenerativeAI, Deep Learning.
-- **Experience With:** FullStack, Image-Classification, Transfer Learning.
+###🚀 About Me
+
+I am a passionate and detail-oriented engineering undergraduate with a strong foundation in software development, system design, and problem-solving.
+I enjoy building scalable web applications and exploring AI-driven solutions that solve real-world problems. Currently, I am diving deeper into Generative AI and Deep Learning, aiming to combine intelligent systems with modern software engineering.
 
 ---
 
-### 🛠️ Technical Proficiencies
+###🎯 Career Objective
 
-| Development | Technologies |
-| :--- | :--- |
-| **Languages** | Java, JavaScript |
-| **Frameworks** | React, Spring Boot |
-| **Database/Storage** | Relational MySQL Database, Document based MongoDB Database |
-| **Tools/Platforms** | vs-code,claude,google Antigravity |
-
-| Deep Learning | Technologies |
-| :--- | :--- |
-| **Languages** | Python |
-| **Data Processing** | NumPy, Pandas |
-| **Data processing** | Matplotlib, Seaborn |
-| **Model Training and Optimization** | Data Augmentation, Fine-Tuning, Hyperparameter Tuning |
-| **Tools** | Jupyter Notebook, Google colab, Vs code |
+To leverage my skills in software engineering and artificial intelligence to build efficient, scalable, and impactful solutions while continuously learning and growing in a dynamic environment.
 
 ---
 
-### 🚀 Featured Projects
+###🛠️ Tech Stack
 
-- **MedManager** - an integerated software platform designed to stramline healthcare operations by managing hospital, docto and patient records.
+- 💻 Development
+Languages: Java, JavaScript
+Frameworks: React.js, Spring Boot
+Databases: MySQL, MongoDB
+Tools: VS Code, Git, Google Colab, Claude
+
+-🤖AI / Deep Learning
+Language: Python
+Libraries: NumPy, Pandas, Matplotlib, Seaborn
+Techniques:
+Data Augmentation
+Transfer Learning
+Fine-Tuning
+Hyperparameter Tuning
+Tools: Jupyter Notebook, Google Colab
+
+-📊 Core Skills
+Data Structures & Algorithms
+Designing and Analysis of Algorithms
+Full Stack Development
+Problem Solving
+
+---
+
+###🚀 Featured Project
+
+🏥 MedManager – Healthcare Management System
+
+An integrated platform designed to streamline hospital operations and manage healthcare data efficiently.
+
+🔹 Features:
+-Manage patient, doctor, and hospital records
+-Structured and secure data handling
+-User-friendly interface
+-Scalable backend architecture
+
+🔹 Tech Stack:
+Java, Spring Boot, React, MySQL
  
 ---
 
-### 📫 Contact & Professional Profiles
-- **LinkedIn:** https://www.linkedin.com/in/saumya-singh-4525b7275
-- **Portfolio:** ..........
-- **Email:** 2K23.it2310700@gmail.com
+###🌱 Currently Learning
+Generative AI
+Advanced Deep Learning
+System Design & Scalability
+
+---
+
+###💡 Strengths
+Clean and maintainable coding practices
+Strong analytical and problem-solving skills
+Fast learner and adaptable
+Balance between theory and real-world implementation
+
+----
+
+###📫 Connect With Me
+🔗 LinkedIn:
+https://www.linkedin.com/in/saumya-singh-4525b7275
+📧 Email:
+2K23.it2310700@gmail.com
+🌐 Portfolio:
+(Coming Soon)
+
+----
+
+###⚡ Fun Fact
+
+I enjoy turning complex problems into simple, efficient solutions 🚀
