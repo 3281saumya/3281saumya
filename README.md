@@ -17,9 +17,9 @@ I am a Btech undergraduate with skills in software development and designing sys
 | Development | Technologies |
 | :--- | :--- |
 | **Languages** | Java, JavaScript |
-| **Frameworks** | React, Spring Boot, |
+| **Frameworks** | React, Spring Boot |
 | **Database/Storage** | Relational MySQL Database, Document based MongoDB Database |
-| **Infrastructure** | ............. |
+| **Tools/Platforms** | vs-code,claude,google Antigravity |
 
 | Deep Learning | Technologies |
 | :--- | :--- |
