@@ -43,7 +43,7 @@ To leverage my skills in software engineering and artificial intelligence to bui
 
 🔹 📊 **Core Skills**
 
-	Data Structures & Algorithms
+    Data Structures & Algorithms
 	
 	Designing and Analysis of Algorithms
 	
@@ -86,13 +86,13 @@ An integrated platform designed to streamline hospital operations and manage hea
 ---
 
 ### 💡 Strengths
-		Clean and maintainable coding practices
+	Clean and maintainable coding practices
 		
-		Strong analytical and problem-solving skills
+	Strong analytical and problem-solving skills
 		
-		Fast learner and adaptable
+	Fast learner and adaptable
 		
-		Balance between theory and real-world implementation
+	Balance between theory and real-world implementation
 
 ----
 
