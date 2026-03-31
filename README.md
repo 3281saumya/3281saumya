@@ -18,29 +18,42 @@ To leverage my skills in software engineering and artificial intelligence to bui
 
 ### 🛠️ Tech Stack
 
-- 💻 Development
-Languages: Java, JavaScript
-Frameworks: React.js, Spring Boot
-Databases: MySQL, MongoDB
-Tools: VS Code, Git, Google Colab, Claude
 
--🤖AI / Deep Learning
-Language: Python
-Libraries: NumPy, Pandas, Matplotlib, Seaborn
-Techniques:
-Data Augmentation
-Transfer Learning
-Fine-Tuning
-Hyperparameter Tuning
-Tools: Jupyter Notebook, Google Colab
+🔹  💻 **Development**
 
--📊 Core Skills
-Data Structures & Algorithms
-Designing and Analysis of Algorithms
-Full Stack Development
-Problem Solving
+	**Languages**: Java, JavaScript
+	
+	**Frameworks**: React.js, Spring Boot
+	
+	**Databases**: MySQL, MongoDB
+	
+	**Tools**: VS Code, Git, Google Colab, Claude
+
+
+🔹 🤖**AI / Deep Learning**
+
+	**Language**: Python
+	
+	**Libraries**: NumPy, Pandas, Matplotlib, Seaborn
+	
+	**Techniques**: Data Augmentation, Transfer Learning, Fine-Tuning, Hyperparameter Tuning
+	
+	**Tools**: Jupyter Notebook, Google Colab
+
+
+🔹 📊 **Core Skills**
+
+	Data Structures & Algorithms
+	
+	Designing and Analysis of Algorithms
+	
+	Full Stack Development
+	
+	Problem Solving
+
 
 ---
+
 
 ### 🚀 Featured Project
 
@@ -49,36 +62,48 @@ Problem Solving
 An integrated platform designed to streamline hospital operations and manage healthcare data efficiently.
 
 🔹 Features:
--Manage patient, doctor, and hospital records
--Structured and secure data handling
--User-friendly interface
--Scalable backend architecture
+
+     Manage patient, doctor, and hospital records
+
+     Structured and secure data handling
+
+     User-friendly interface
+
+     Scalable backend architecture
 
 🔹 Tech Stack:
-Java, Spring Boot, React, MySQL
+													Java, Spring Boot, React, MySQL
  
 ---
 
 ### 🌱 Currently Learning
-Generative AI
-Advanced Deep Learning
-System Design & Scalability
+	Generative AI
+	
+	Advanced Deep Learning
+	
+	System Design & Scalability
 
 ---
 
 ### 💡 Strengths
-Clean and maintainable coding practices
-Strong analytical and problem-solving skills
-Fast learner and adaptable
-Balance between theory and real-world implementation
+		Clean and maintainable coding practices
+		
+		Strong analytical and problem-solving skills
+		
+		Fast learner and adaptable
+		
+		Balance between theory and real-world implementation
 
 ----
 
 ### 📫 Connect With Me
+
 🔗 LinkedIn:
 https://www.linkedin.com/in/saumya-singh-4525b7275
+
 📧 Email:
 2K23.it2310700@gmail.com
+
 🌐 Portfolio:
 (Coming Soon)
 
