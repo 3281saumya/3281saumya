@@ -21,24 +21,24 @@ To leverage my skills in software engineering and artificial intelligence to bui
 
 🔹  💻 **Development**
 
-	**Languages**: Java, JavaScript
+	Languages: Java, JavaScript
 	
-	**Frameworks**: React.js, Spring Boot
+	Frameworks: React.js, Spring Boot
 	
-	**Databases**: MySQL, MongoDB
+	Databases: MySQL, MongoDB
 	
-	**Tools**: VS Code, Git, Google Colab, Claude
+	Tools: VS Code, Git, Google Colab, Claude
 
 
 🔹 🤖**AI / Deep Learning**
 
-	**Language**: Python
+	Language: Python
 	
-	**Libraries**: NumPy, Pandas, Matplotlib, Seaborn
+	Libraries: NumPy, Pandas, Matplotlib, Seaborn
 	
-	**Techniques**: Data Augmentation, Transfer Learning, Fine-Tuning, Hyperparameter Tuning
+	Techniques: Data Augmentation, Transfer Learning, Fine-Tuning, Hyperparameter Tuning
 	
-	**Tools**: Jupyter Notebook, Google Colab
+	Tools: Jupyter Notebook, Google Colab
 
 
 🔹 📊 **Core Skills**
