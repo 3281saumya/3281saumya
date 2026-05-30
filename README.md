@@ -105,7 +105,7 @@ https://www.linkedin.com/in/saumya-singh-4525b7275
 2K23.it2310700@gmail.com
 
 🌐 Portfolio:
-(Coming Soon)
+https://portfolio-498m-oxn2o9p61-3281saumya.vercel.app
 
 ----
 
